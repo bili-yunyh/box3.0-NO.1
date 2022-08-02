@@ -13,7 +13,4 @@ world.onPlayerLeave(({ entity }) => {
 //Thanks for checking in.
 
 //Author:monkey
-//According to Article 6 of the Regulations on the Implementation of the Copyright Law of the People's Republic of China,
-//copyright arises from the date of completion of the creation of the work.
 //©2022 monkey
-//All rights reserved.
